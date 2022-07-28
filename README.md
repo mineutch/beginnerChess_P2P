@@ -1,4 +1,5 @@
 # beginnerChess_P2P
 P2Pのチェスゲーム
 
-#はじめてのChess
+# はじめてのChess
+Chessのルールを学びながら楽しめるゲーム
